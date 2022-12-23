@@ -2,7 +2,7 @@
 
 This app allows users to search for Images by entering a search term. This front-end project uses React to retrieve and display images using the Unsplash API. Designs were done using Bootstrap and CSS Grid.
 
-View the live site [here](https://dvdlin214.github.io/picture_search/)
+View the live site [here](https://bytesbydave.github.io/picture_search/)
 
 ## Getting Started
 
